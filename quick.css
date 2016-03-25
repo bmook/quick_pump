@@ -1,0 +1,183 @@
+h1 {
+ color: orange;
+ font-weight: bold;
+ font-size: 6.5em;
+ font
+}
+p.copy{
+ color: black;
+ font-family: Big Caslon, serif;
+ font-size: 1.5em;
+}
+h2 {
+ color: black;
+ font-size: 3em;
+ font-family: Big Caslon, serif;
+ text-align: center;
+}
+.container {
+  width: auto;
+  height: auto;
+  background-color: #CFCFCF;
+}
+
+@media (min-width: 300px)
+
+#clean_pic {
+width: 100%;
+}
+#app_store {
+  position: absolute;
+  top: 90%;
+  left: 90%;
+  transform: translate(-50%, -50%);
+  height: 200px;
+
+}
+#hed {
+  display: inline;
+  position: absolute;
+  top: 70%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  color: orange;
+  text-align: center;
+  font-weight: bold;
+  font-size: 6.5em;
+  padding-top: 25px;
+}
+#feature_sub_hed {
+  display: inline;
+  position: absolute;
+  top: 95%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  color: #24DFEC;
+  text-align: center;
+  padding-bottom: 50px;
+  font-size: 3.5em;
+}
+#text_box {
+ font-size: 2em;
+ color: red;
+}
+#step_1 {
+  background-color: #EC7524;
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 50px;
+  padding-top: 15px;
+  margin-bottom: 50px;
+  height:300px;
+}
+#step_1_pic {
+  float: left;
+  height: 300px;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+}
+.step_1_copy {
+  color: black;
+  font-family: Big Caslon, serif;
+  font-size: 1.5em;
+  padding-left: 100px;
+  text-align: center;
+}
+#step_2 {
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 50px;
+  padding-top: 15px;
+  margin-bottom: 50px;
+  height:300px;
+}
+.step_2_copy {
+  color: black;
+  font-family: Big Caslon, serif;
+  font-size: 1.5em;
+  padding-left: 100px;
+  text-align: center;
+}
+#intensity {
+  float: right;
+  height: 300px;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
+  padding-right: 50px;
+}
+
+
+#step_3 {
+  display: block;
+  background-color: #EC7524;
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 50px;
+  padding-top: 15px;
+  margin-bottom: 50px;
+  height:300px;
+  }
+  .step_3_copy {
+    color: black;
+    font-family: Big Caslon, serif;
+    font-size: 1.5em;
+    padding-left: 100px;
+    text-align: center;
+  }
+  #focus {
+    float: left;
+  height: 300px;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  }
+
+  #step_4 {
+    color: black;
+  font-family: Big Caslon, serif;
+  font-size: 1.5em;
+  padding-left: 100px;
+  text-align: center;
+  }
+  .step_4_copy {
+
+  }
+#generate {
+  float: right;
+  height: 300px;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
+  padding-right: 50px;
+}
+
+
+  #bench_press {
+  height: 700px;
+  width: 100%;
+
+  }
+  #call_action {
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 50px;
+    padding-top: 15px;
+    margin-bottom: 50px;
+    height:250px;
+  }
+.footer_copy {
+    color: orange;
+    font-family: Big Caslon, serif;
+    font-size: 3.5em;
+    padding-left: 100px;
+    text-align: center;
+  }
+#footer_store  {
+  height: 400px;
+  position: relative;
+  top: 90%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+  height: 200px;
+  }
+}
